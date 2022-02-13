@@ -9,8 +9,11 @@ AP01/.vscode/**
 AP01/Library/**
 AP01/Logs/**
 AP01/obj/**
+AP01/Temp/**
 
 # 排除一些文件类型
 *.sln
 *.csproj
 *.pptx
+
+
